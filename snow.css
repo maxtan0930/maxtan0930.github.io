@@ -1,0 +1,27 @@
+p{
+    color:red;
+    font-style:italic;
+    text-align:center;
+}
+
+
+h1{
+    color:gray;
+    font-style:Italic;
+    text-align:center;
+}
+
+a{
+    color: black;
+    font-style: oblique;
+    text-align: center;
+}
+
+body{
+    background-color: gray;
+}
+
+br{
+    text-decoration: underline;
+}
+
